@@ -1,1 +1,2 @@
-# projectEuler
+I want to challenge myself and try to solve as many project Euler problems as I can. It will not only help me improve my
+coding skills, but will also improve my knowledge of Math, as well as my ability to think logically.
